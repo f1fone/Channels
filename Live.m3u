@@ -3,3 +3,4 @@ name= TV2 url= "http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunkl
 name= TV3 url= "http://go.layarku.tv/tv3.m3u8 " logo= "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png "
 name= ASTRO RIA url= "http://go.layarku.tv/ria.m3u8 " logo= "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png "
 name= ASTRO PRIMA url= "http://go.layarku.tv/prima.m3u8 " logo= "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png"
+name= TV9 url= "http://ustreamix.com//stream.php?id=tv9-malaysia " logo= "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_300.png"
